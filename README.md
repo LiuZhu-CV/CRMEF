@@ -1,6 +1,5 @@
 # CRMEF
-Embracing Compact and Robust Architectures for Multi-Exposure Image Fusion
-
+Searching a Compact Architecture for Robust Multi-Exposure Image Fusion
 ## Preview of CRMEF
 ---
 ![preview](pics/workflow.png)
